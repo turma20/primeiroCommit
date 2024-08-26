@@ -30,7 +30,11 @@ public class HelloWord {
 		System.out.println("O resultado é : " + resultado);
 		
 		
-		adaadasdddadsda
+	ugifepçufgbewoçifbvwioefboewÇBFOEWBFOEWBFUIOEFWBFIUWGVFUIVWIÇEFÇVW8DVQODÇ
+	FDIKEWVFDIEWVFIEWVIFVWEIFVWEF
+	BFIWEGVFIWEVFIEWVFIEWÇVFEW
+	FBUIWEBVFIUPEWFIVUWEVFIPWEFPBEWUIPFHPWEIF
+	
 
 	}
 
